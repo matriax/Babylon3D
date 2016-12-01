@@ -1,7 +1,7 @@
 # Babylon3D - Tutorials/Tips/Tricks
 All kind of tips about Babylon3D. 
 
-Go to Wiki : https://github.com/matriax/Babylon3D-Tips/wiki
+Go to Wiki : https://github.com/matriax/Babylon3D/wiki
 
 ***
 
