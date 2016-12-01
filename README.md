@@ -7,6 +7,6 @@ Go to Wiki : https://github.com/matriax/Babylon3D-Tips/wiki
 
 #Personal Links#
 
-Twitter: https://twitter.com/DavitMasia
+- [Twitter](https://twitter.com/DavitMasia)
+- [Youtube](https://www.youtube.com/playlist?list=PLLhVKO3HeaaxrhZH4f2sIXtTbZqyiX2UQ)
 
-Youtube: https://www.youtube.com/playlist?list=PLLhVKO3HeaaxrhZH4f2sIXtTbZqyiX2UQ
