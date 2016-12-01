@@ -1,5 +1,5 @@
 # Babylon3D-Tips
-All kind of tips about babylon3D
+All kind of tips about Babylon3D. 
 
 Go to Wiki : https://github.com/matriax/Babylon3D-Tips/wiki
 
