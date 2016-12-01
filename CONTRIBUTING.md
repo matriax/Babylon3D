@@ -1,4 +1,4 @@
-When [create a new issue](https://github.com/matriax/Babylon3D/issues/new) try to be all clear as possible and include the maximun information possible, bug or request.
+When [create a new issue](https://github.com/matriax/Babylon3D/issues/new) try to be all clear as possible and include the maximun information possible, bug or feature request.
 
 ***
 
