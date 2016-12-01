@@ -3,8 +3,7 @@ All kind of tips about Babylon3D.
 
 Feel free to open a new issue if you are experiencing a bug or would like to see a new feature. You can either [browse existing issues](https://github.com/matriax/Babylon3D/issues) or [create a new issue](https://github.com/matriax/Babylon3D/issues/new) .
 
-Problems on Babylon3D or your 3D editor? Read the wiki with the main problems you may find.
-Go to Wiki : https://github.com/matriax/Babylon3D/wiki
+Problems on Babylon3D or your 3D editor?  [Read the wiki](https://twitter.com/DavitMasia) with the main problems you may find.
 
 
 ***
