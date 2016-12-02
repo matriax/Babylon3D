@@ -16,7 +16,7 @@ Problems on Babylon3D or your 3D editor?  [Read the wiki](https://twitter.com/Da
 #Playable Demos#
 
 X3M Demos
-- [Babylon3D:SLE - Skybox example](https://www.scirra.com/arcade/other-games/babylon3dsle-skybox-example-12888)
+- [Babylon3D-SLE - Skybox example](https://www.scirra.com/arcade/other-games/babylon3dsle-skybox-example-12888)
 - [Babylon3D-SLE - Fog example](https://www.scirra.com/arcade/other-games/babylon3d-sle-fog-example-12889)
 - [Babylon3D-SLE - Mesh array example](https://www.scirra.com/arcade/other-games/babylon3d-sle-mesh-array-example-12890)
 - [Babylon3D-SLE - Materials example](https://www.scirra.com/arcade/other-games/babylon3d-sle-materials-example-12891)
