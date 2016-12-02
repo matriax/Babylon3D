@@ -4,7 +4,7 @@ Feel free to open a new issue if you are experiencing a bug or would like to see
 
 Problems on Babylon3D or your 3D editor?  [Read the wiki](https://twitter.com/DavitMasia) with the main problems you may find.
 
-<Link to="myRoute" params={myParams} target="_blank">
+<a href="http://website.com" target="_blank">This link will open in new window/tab</a>
 
 ***
 
