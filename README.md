@@ -4,6 +4,8 @@ Feel free to open a new issue if you are experiencing a bug or would like to see
 
 Problems on Babylon3D or your 3D editor?  [Read the wiki](https://twitter.com/DavitMasia) with the main problems you may find.
 
+<a href="example.com" target="_blank">New Tab</a>
+
 ***
 
 #Tutorials#
