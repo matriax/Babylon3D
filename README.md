@@ -9,7 +9,7 @@ Problems on Babylon3D or your 3D editor?  [Read the wiki](https://twitter.com/Da
 #Tutorials#
 
 - [X3M Tutorials](https://x3mworks.blogspot.com.es/p/babylon3d-tutorials.html)
-- [Matriax Tutorials & Play Around](https://www.youtube.com/playlist?list=PLLhVKO3HeaaxrhZH4f2sIXtTbZqyiX2UQ)
+- [Matriax Video-Tutorials & Play Around](https://www.youtube.com/playlist?list=PLLhVKO3HeaaxrhZH4f2sIXtTbZqyiX2UQ)
 
 ***
 
