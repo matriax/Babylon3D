@@ -6,7 +6,7 @@ Problems on Babylon3D or your 3D editor?  [Read the wiki](https://twitter.com/Da
 
 <a href="http://www.example.com" target="_blank">New Tab</a>
 
-[link name](http://www.example.com){target="_blank"}
+<a href="http://example.com/" target="_blank">example</a>
 
 ***
 
