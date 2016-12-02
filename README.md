@@ -29,5 +29,5 @@ Matriax Demos
 #Related Links#
 
 - [Dev Website](https://x3mworks.blogspot.com.es/)
-- [Forum Thread](https://www.scirra.com/forum/babylon3d-for-construct-2-scene-loader-edition_t183234)
-- [Product Thread](https://www.scirra.com/forum/babylon3d-scene-loader-edition-plugins_t183738)
+- [Scirra Forum Thread](https://www.scirra.com/forum/babylon3d-for-construct-2-scene-loader-edition_t183234)
+- [Scirra Product Thread](https://www.scirra.com/forum/babylon3d-scene-loader-edition-plugins_t183738)
