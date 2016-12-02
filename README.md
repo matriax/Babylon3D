@@ -1,6 +1,6 @@
 # Babylon3D 
 
-Feel free to open a new issue if you are experiencing a bug or would like to see a new feature. You can either [browse existing issues](https://github.com/matriax/Babylon3D/issues) or [create a new issue](https://github.com/matriax/Babylon3D/issues/new) .
+Feel free to open a new issue if you are experiencing a bug or would like to see a new feature. You can either [browse existing issues](https://github.com/matriax/Babylon3D/issues) or [create a new issue](https://github.com/matriax/Babylon3D/issues/new). [Read before post an Issue](https://github.com/matriax/Babylon3D/blob/master/READ_BEFORE_POST_AN_ISSUE.md)
 
 Problems on Babylon3D or your 3D editor?  [Read the wiki](https://twitter.com/DavitMasia) with the main problems you may find.
 
