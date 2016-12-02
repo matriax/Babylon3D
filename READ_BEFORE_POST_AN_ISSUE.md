@@ -10,4 +10,4 @@ First [browse existing issues](https://github.com/matriax/Babylon3D/issues) to s
 
 Post a screenshot of the bug and give all possible information the developer may need to reproduce it.
 
-Label the thread as Bug in the options you will see the right side.
+Label the thread as Bug in the options you will see in the right side.
