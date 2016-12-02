@@ -4,8 +4,6 @@ Feel free to open a new issue if you are experiencing a bug or would like to see
 
 Problems on Babylon3D or your 3D editor?  [Read the wiki](https://twitter.com/DavitMasia) with the main problems you may find.
 
-<a href="http://website.com" target="_blank">This link will open in new window/tab</a>
-
 ***
 
 #Tutorials#
@@ -30,6 +28,7 @@ Matriax Demos
 
 #Related Links#
 
+- [Babylon3D Store](https://www.scirra.com/store/construct2-plugins/babylon3d-scene-loader-edition-2992)
 - [Dev Website](https://x3mworks.blogspot.com.es/)
 - [Scirra Forum Thread](https://www.scirra.com/forum/babylon3d-for-construct-2-scene-loader-edition_t183234)
 - [Scirra Product Thread](https://www.scirra.com/forum/babylon3d-scene-loader-edition-plugins_t183738)
